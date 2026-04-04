@@ -26,7 +26,6 @@ tlc-trip-record-data-project/
 │   ├── figures/              # Exported visualization graphics, residual distributions, and metric plots
 │   ├── data_dictionary_report.md
 │   └── nyc_taxi_demand_report.md
-├── src/                      # Modular and scalable operational source code
 └── README.md
 ```
 
